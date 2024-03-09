@@ -1,0 +1,261 @@
+league_id,league_name,team_api_id,country_id,country_name,id,team_fifa_api_id,team_long_name,team_short_name,favored
+1,Belgium Jupiler League,9987,1,Belgium,1,673.0,KRC Genk,GEN,146
+1,Belgium Jupiler League,274581,1,Belgium,2510,111560.0,Royal Excel Mouscron,MOP,14
+1,Belgium Jupiler League,8573,1,Belgium,2476,682.0,KV Oostende,OOS,26
+1,Belgium Jupiler League,8475,1,Belgium,2004,110913.0,Waasland-Beveren,WAA,14
+1,Belgium Jupiler League,1773,1,Belgium,1513,100087.0,Oud-Heverlee Leuven,O-H,20
+1,Belgium Jupiler League,9989,1,Belgium,1034,239.0,Lierse SK,LIE,31
+1,Belgium Jupiler League,9997,1,Belgium,614,680.0,Sint-Truidense VV,STT,35
+1,Belgium Jupiler League,8571,1,Belgium,14,100081.0,KV Kortrijk,KOR,88
+1,Belgium Jupiler League,9986,1,Belgium,18,670.0,Sporting Charleroi,CHA,61
+1,Belgium Jupiler League,9998,1,Belgium,8,1747.0,RAEC Mons,MON,29
+1,Belgium Jupiler League,8635,1,Belgium,6,229.0,RSC Anderlecht,AND,200
+1,Belgium Jupiler League,9993,1,Belgium,2,675.0,Beerschot AC,BAC,61
+1,Belgium Jupiler League,6351,1,Belgium,1042,2013.0,KAS Eupen,EUP,4
+1,Belgium Jupiler League,9994,1,Belgium,4,2007.0,Sporting Lokeren,LOK,97
+1,Belgium Jupiler League,9996,1,Belgium,16,111560.0,Royal Excel Mouscron,MOU,12
+1,Belgium Jupiler League,10000,1,Belgium,3,15005.0,SV Zulte-Waregem,ZUL,103
+1,Belgium Jupiler League,9984,1,Belgium,5,1750.0,KSV Cercle Brugge,CEB,72
+1,Belgium Jupiler League,7947,1,Belgium,9,,FCV Dender EH,DEN,8
+1,Belgium Jupiler League,8203,1,Belgium,11,110724.0,KV Mechelen,MEC,86
+1,Belgium Jupiler League,9991,1,Belgium,7,674.0,KAA Gent,GEN,170
+1,Belgium Jupiler League,4049,1,Belgium,15,,Tubize,TUB,3
+1,Belgium Jupiler League,10001,1,Belgium,17,681.0,KVC Westerlo,WES,59
+1,Belgium Jupiler League,8342,1,Belgium,12,231.0,Club Brugge KV,CLB,184
+1,Belgium Jupiler League,9985,1,Belgium,10,232.0,Standard de Liège,STL,172
+1,Belgium Jupiler League,9999,1,Belgium,13,546.0,KSV Roeselare,ROS,11
+1729,England Premier League,8528,1729,England,3464,1917.0,Wigan Athletic,WIG,57
+1729,England Premier League,10172,1729,England,5747,15.0,Queens Park Rangers,QPR,32
+1729,England Premier League,8602,1729,England,4225,110.0,Wolverhampton Wanderers,WOL,35
+1729,England Premier League,8191,1729,England,4234,1796.0,Burnley,BUR,19
+1729,England Premier League,8658,1729,England,4218,88.0,Birmingham City,BIR,22
+1729,England Premier League,8483,1729,England,4996,1926.0,Blackpool,BLA,7
+1729,England Premier League,9850,1729,England,5756,1792.0,Norwich City,NOR,45
+1729,England Premier League,8197,1729,England,8021,95.0,Leicester City,LEI,34
+1729,England Premier League,9798,1729,England,6509,1793.0,Reading,REA,6
+1729,England Premier League,8466,1729,England,6504,17.0,Southampton,SOU,84
+1729,England Premier League,9826,1729,England,7261,1799.0,Crystal Palace,CRY,31
+1729,England Premier League,8344,1729,England,7276,1961.0,Cardiff City,CAR,11
+1729,England Premier League,8678,1729,England,8779,1943.0,Bournemouth,BOU,13
+1729,England Premier League,9817,1729,England,8784,1795.0,Watford,WAT,11
+1729,England Premier League,8655,1729,England,3468,3.0,Blackburn Rovers,BLB,52
+1729,England Premier League,10003,1729,England,5744,1960.0,Swansea City,SWA,77
+1729,England Premier League,8456,1729,England,3466,10.0,Manchester City,MCI,261
+1729,England Premier League,10261,1729,England,3458,13.0,Newcastle United,NEW,94
+1729,England Premier League,8659,1729,England,3460,109.0,West Bromwich Albion,WBA,85
+1729,England Premier League,8462,1729,England,3476,1790.0,Portsmouth,POR,22
+1729,England Premier League,10260,1729,England,3457,11.0,Manchester United,MUN,275
+1729,England Premier League,9825,1729,England,3459,1.0,Arsenal,ARS,266
+1729,England Premier League,8472,1729,England,3461,106.0,Sunderland,SUN,89
+1729,England Premier League,8654,1729,England,3463,19.0,West Ham United,WHU,89
+1729,England Premier League,8668,1729,England,3467,7.0,Everton,EVE,187
+1729,England Premier League,8549,1729,England,3469,12.0,Middlesbrough,MID,13
+1729,England Premier League,10252,1729,England,3465,2.0,Aston Villa,AVL,120
+1729,England Premier League,8667,1729,England,3473,1952.0,Hull City,HUL,38
+1729,England Premier League,8455,1729,England,3475,5.0,Chelsea,CHE,273
+1729,England Premier League,10194,1729,England,3472,1806.0,Stoke City,STK,96
+1729,England Premier League,8650,1729,England,3462,9.0,Liverpool,LIV,246
+1729,England Premier League,9879,1729,England,3474,144.0,Fulham,FUL,78
+1729,England Premier League,8586,1729,England,3470,18.0,Tottenham Hotspur,TOT,224
+1729,England Premier League,8559,1729,England,3471,4.0,Bolton Wanderers,BOL,48
+4769,France Ligue 1,8576,4769,France,11817,614.0,AC Ajaccio,AJA,22
+4769,France Ligue 1,10249,4769,France,10309,70.0,Montpellier Hérault SC,MON,136
+4769,France Ligue 1,4170,4769,France,10312,111376.0,US Boulogne Cote D'Opale,BOU,4
+4769,France Ligue 1,8588,4769,France,10300,64.0,RC Lens,LEN,40
+4769,France Ligue 1,108893,4769,France,11074,111989.0,AC Arles-Avignon,ARL,0
+4769,France Ligue 1,8521,4769,France,11076,378.0,Stade Brestois 29,BRE,33
+4769,France Ligue 1,9836,4769,France,11825,110569.0,Dijon FCO,DIJ,10
+4769,France Ligue 1,6391,4769,France,14876,110316.0,GFC Ajaccio,GAJ,9
+4769,France Ligue 1,9837,4769,France,12587,379.0,Stade de Reims,REI,50
+4769,France Ligue 1,10242,4769,France,12595,294.0,ES Troyes AC,TRO,17
+4769,France Ligue 1,7794,4769,France,12594,58.0,SC Bastia,BAS,43
+4769,France Ligue 1,9747,4769,France,13343,62.0,En Avant de Guingamp,GUI,44
+4769,France Ligue 1,8550,4769,France,14106,68.0,FC Metz,MET,12
+4769,France Ligue 1,8121,4769,France,14868,1530.0,Angers SCO,ANG,11
+4769,France Ligue 1,9847,4769,France,9548,73.0,Paris Saint-Germain,PSG,262
+4769,France Ligue 1,4087,4769,France,11822,111271.0,Évian Thonon Gaillard FC,ETG,49
+4769,France Ligue 1,9830,4769,France,9538,71.0,FC Nantes,NAN,60
+4769,France Ligue 1,8639,4769,France,9550,65.0,LOSC Lille,LIL,228
+4769,France Ligue 1,7819,4769,France,9540,210.0,SM Caen,CAE,73
+4769,France Ligue 1,8583,4769,France,9537,57.0,AJ Auxerre,AUX,65
+4769,France Ligue 1,9746,4769,France,9541,1738.0,Le Havre AC,LEH,9
+4769,France Ligue 1,8682,4769,France,9543,1739.0,Le Mans FC,LEM,26
+4769,France Ligue 1,9748,4769,France,9545,66.0,Olympique Lyonnais,LYO,249
+4769,France Ligue 1,9829,4769,France,9547,69.0,AS Monaco,MON,142
+4769,France Ligue 1,8481,4769,France,9549,1823.0,AS Nancy-Lorraine,NAN,70
+4769,France Ligue 1,9851,4769,France,9551,74.0,Stade Rennais FC,REN,165
+4769,France Ligue 1,9827,4769,France,9539,59.0,Girondins de Bordeaux,BOR,201
+4769,France Ligue 1,9873,4769,France,9555,110456.0,Valenciennes FC,VAL,87
+4769,France Ligue 1,9874,4769,France,9553,226.0,FC Sochaux-Montbéliard,SOC,84
+4769,France Ligue 1,9941,4769,France,9546,1809.0,Toulouse FC,TOU,147
+4769,France Ligue 1,9853,4769,France,9556,1819.0,AS Saint-Étienne,ETI,178
+4769,France Ligue 1,9855,4769,France,9554,1805.0,Grenoble Foot 38,GRE,19
+4769,France Ligue 1,8592,4769,France,9552,219.0,Olympique de Marseille,MAR,250
+4769,France Ligue 1,8689,4769,France,9544,217.0,FC Lorient,LOR,121
+4769,France Ligue 1,9831,4769,France,9542,72.0,OGC Nice,NIC,120
+7809,Germany 1. Bundesliga,9904,7809,Germany,15622,485.0,Hannover 96,HAN,84
+7809,Germany 1. Bundesliga,8226,7809,Germany,15630,10029.0,TSG 1899 Hoffenheim,HOF,130
+7809,Germany 1. Bundesliga,8358,7809,Germany,16237,25.0,SC Freiburg,FRE,56
+7809,Germany 1. Bundesliga,8165,7809,Germany,16239,171.0,1. FC Nürnberg,NUR,57
+7809,Germany 1. Bundesliga,9905,7809,Germany,16243,169.0,1. FSV Mainz 05,MAI,95
+7809,Germany 1. Bundesliga,8350,7809,Germany,16848,29.0,1. FC Kaiserslautern,KAI,18
+7809,Germany 1. Bundesliga,8406,7809,Germany,17465,100409.0,FC Augsburg,AUG,64
+7809,Germany 1. Bundesliga,8357,7809,Germany,18079,165.0,SpVgg Greuther Fürth,GRF,7
+7809,Germany 1. Bundesliga,8234,7809,Germany,19916,111239.0,FC Ingolstadt 04,ING,10
+7809,Germany 1. Bundesliga,9776,7809,Germany,18691,110500.0,Eintracht Braunschweig,BRA,2
+7809,Germany 1. Bundesliga,8460,7809,Germany,19305,10030.0,SC Paderborn 07,PAD,4
+7809,Germany 1. Bundesliga,8262,7809,Germany,19917,110502.0,SV Darmstadt 98,DAR,5
+7809,Germany 1. Bundesliga,10269,7809,Germany,15632,36.0,VfB Stuttgart,STU,154
+7809,Germany 1. Bundesliga,8152,7809,Germany,16850,110329.0,FC St. Pauli,STP,8
+7809,Germany 1. Bundesliga,8194,7809,Germany,18074,110636.0,Fortuna Düsseldorf,FDU,5
+7809,Germany 1. Bundesliga,9789,7809,Germany,15620,22.0,Borussia Dortmund,DOR,235
+7809,Germany 1. Bundesliga,8722,7809,Germany,15624,31.0,1. FC Köln,FCK,58
+7809,Germany 1. Bundesliga,9911,7809,Germany,15634,160.0,VfL Bochum,BOC,16
+7809,Germany 1. Bundesliga,9823,7809,Germany,15617,21.0,FC Bayern Munich,BMU,267
+7809,Germany 1. Bundesliga,8178,7809,Germany,15619,32.0,Bayer 04 Leverkusen,LEV,212
+7809,Germany 1. Bundesliga,8721,7809,Germany,15623,175.0,VfL Wolfsburg,WOL,174
+7809,Germany 1. Bundesliga,9810,7809,Germany,15625,1824.0,Eintracht Frankfurt,EFR,81
+7809,Germany 1. Bundesliga,9912,7809,Germany,15627,159.0,DSC Arminia Bielefeld,BIE,9
+7809,Germany 1. Bundesliga,10189,7809,Germany,15621,34.0,FC Schalke 04,S04,188
+7809,Germany 1. Bundesliga,9788,7809,Germany,15631,23.0,Borussia Mönchengladbach,GLA,130
+7809,Germany 1. Bundesliga,8295,7809,Germany,15633,1832.0,Karlsruher SC,KAR,7
+7809,Germany 1. Bundesliga,9790,7809,Germany,15618,28.0,Hamburger SV,HAM,137
+7809,Germany 1. Bundesliga,8697,7809,Germany,15628,38.0,SV Werder Bremen,WBR,145
+7809,Germany 1. Bundesliga,8177,7809,Germany,15626,166.0,Hertha BSC Berlin,HBE,80
+7809,Germany 1. Bundesliga,8398,7809,Germany,15629,162.0,FC Energie Cottbus,COT,9
+10257,Italy Serie A,9880,10257,Italy,22042,110915.0,Cesena,CES,18
+10257,Italy Serie A,8636,10257,Italy,20528,44.0,Inter,INT,253
+10257,Italy Serie A,10233,10257,Italy,20518,110556.0,Genoa,GEN,125
+10257,Italy Serie A,8537,10257,Italy,21285,1844.0,Livorno,LIV,14
+10257,Italy Serie A,10167,10257,Italy,21292,50.0,Parma,PAR,87
+10257,Italy Serie A,9976,10257,Italy,21280,1848.0,Bari,BAR,22
+10257,Italy Serie A,9858,10257,Italy,22044,190.0,Brescia,BRE,9
+10257,Italy Serie A,208931,10257,Italy,25804,112409.0,Carpi,CAP,9
+10257,Italy Serie A,9878,10257,Italy,23523,200.0,Pescara,PES,2
+10257,Italy Serie A,9876,10257,Italy,24273,206.0,Hellas Verona,VER,32
+10257,Italy Serie A,7943,10257,Italy,24288,111974.0,Sassuolo,SAS,35
+10257,Italy Serie A,8534,10257,Italy,25048,1746.0,Empoli,EMP,28
+10257,Italy Serie A,9891,10257,Italy,25791,111657.0,Frosinone,FRO,3
+10257,Italy Serie A,9888,10257,Italy,20530,347.0,Lecce,LEC,31
+10257,Italy Serie A,6269,10257,Italy,22805,112225.0,Novara,NOV,10
+10257,Italy Serie A,9875,10257,Italy,20526,48.0,Napoli,NAP,229
+10257,Italy Serie A,8564,10257,Italy,20523,47.0,Milan,ACM,251
+10257,Italy Serie A,9885,10257,Italy,20522,45.0,Juventus,JUV,272
+10257,Italy Serie A,8524,10257,Italy,20513,39.0,Atalanta,ATA,92
+10257,Italy Serie A,8530,10257,Italy,20517,110364.0,Catania,CAT,80
+10257,Italy Serie A,8533,10257,Italy,20519,192.0,Chievo Verona,CHI,89
+10257,Italy Serie A,8535,10257,Italy,20521,110374.0,Fiorentina,FIO,204
+10257,Italy Serie A,9857,10257,Italy,20524,189.0,Bologna,BOL,83
+10257,Italy Serie A,8686,10257,Italy,20525,52.0,Roma,ROM,243
+10257,Italy Serie A,8529,10257,Italy,20515,1842.0,Cagliari,CAG,90
+10257,Italy Serie A,9804,10257,Italy,20529,54.0,Torino,TOR,86
+10257,Italy Serie A,8600,10257,Italy,20531,55.0,Udinese,UDI,145
+10257,Italy Serie A,8551,10257,Italy,20514,1838.0,Siena,SIE,48
+10257,Italy Serie A,8690,10257,Italy,20520,203.0,Reggio Calabria,REG,13
+10257,Italy Serie A,8540,10257,Italy,20532,1843.0,Palermo,PAL,111
+10257,Italy Serie A,8543,10257,Italy,20516,46.0,Lazio,LAZ,189
+10257,Italy Serie A,9882,10257,Italy,20527,1837.0,Sampdoria,SAM,108
+13274,Netherlands Eredivisie,10228,13274,Netherlands,26562,1913.0,SC Heerenveen,HEE,147
+13274,Netherlands Eredivisie,8611,13274,Netherlands,26550,1908.0,FC Twente,TWE,216
+13274,Netherlands Eredivisie,8640,13274,Netherlands,26556,247.0,PSV,PSV,254
+13274,Netherlands Eredivisie,10219,13274,Netherlands,27161,1905.0,RKC Waalwijk,RKC,33
+13274,Netherlands Eredivisie,9839,13274,Netherlands,27168,100651.0,VVV-Venlo,VEN,30
+13274,Netherlands Eredivisie,7788,13274,Netherlands,29617,647.0,SC Cambuur,CAM,31
+13274,Netherlands Eredivisie,6413,13274,Netherlands,29000,1914.0,PEC Zwolle,ZWO,53
+13274,Netherlands Eredivisie,6433,13274,Netherlands,29624,100632.0,Go Ahead Eagles,GAE,15
+13274,Netherlands Eredivisie,6631,13274,Netherlands,30222,100626.0,FC Dordrecht,DOR,4
+13274,Netherlands Eredivisie,9761,13274,Netherlands,26564,1904.0,NAC Breda,NAC,84
+13274,Netherlands Eredivisie,10218,13274,Netherlands,27780,1971.0,Excelsior,EXC,22
+13274,Netherlands Eredivisie,10217,13274,Netherlands,26560,650.0,ADO Den Haag,HAA,96
+13274,Netherlands Eredivisie,8674,13274,Netherlands,26548,1915.0,FC Groningen,GRO,130
+13274,Netherlands Eredivisie,8464,13274,Netherlands,26553,1910.0,N.E.C.,NEC,93
+13274,Netherlands Eredivisie,8593,13274,Netherlands,26552,245.0,Ajax,AJA,252
+13274,Netherlands Eredivisie,8526,13274,Netherlands,26554,635.0,De Graafschap,GRA,22
+13274,Netherlands Eredivisie,10229,13274,Netherlands,26563,1906.0,AZ,ALK,200
+13274,Netherlands Eredivisie,6601,13274,Netherlands,26561,,FC Volendam,VOL,6
+13274,Netherlands Eredivisie,8614,13274,Netherlands,26559,100646.0,Sparta Rotterdam,SPA,15
+13274,Netherlands Eredivisie,9791,13274,Netherlands,26557,100634.0,Heracles Almelo,HER,106
+13274,Netherlands Eredivisie,9908,13274,Netherlands,26555,1903.0,FC Utrecht,UTR,124
+13274,Netherlands Eredivisie,8525,13274,Netherlands,26551,1907.0,Willem II,WII,53
+13274,Netherlands Eredivisie,9803,13274,Netherlands,26549,1902.0,Roda JC Kerkrade,ROD,91
+13274,Netherlands Eredivisie,8277,13274,Netherlands,26547,1909.0,Vitesse,VIT,159
+13274,Netherlands Eredivisie,10235,13274,Netherlands,26558,246.0,Feyenoord,FEY,209
+17642,Portugal Liga ZON Sagres,10211,17642,Portugal,36253,1897.0,SC Beira Mar,B-M,25
+17642,Portugal Liga ZON Sagres,2033,17642,Portugal,35774,111540.0,S.C. Olhanense,OLH,44
+17642,Portugal Liga ZON Sagres,10215,17642,Portugal,35292,1901.0,Académica de Coimbra,ACA,84
+17642,Portugal Liga ZON Sagres,188163,17642,Portugal,38791,,Tondela,TON,4
+17642,Portugal Liga ZON Sagres,9771,17642,Portugal,35769,1895.0,"União de Leiria, SAD",ULE,28
+17642,Portugal Liga ZON Sagres,4064,17642,Portugal,36723,,Feirense,FEI,10
+17642,Portugal Liga ZON Sagres,6367,17642,Portugal,38789,,Uniao da Madeira,MAD,9
+17642,Portugal Liga ZON Sagres,8348,17642,Portugal,37210,1900.0,Moreirense FC,MOR,33
+17642,Portugal Liga ZON Sagres,7842,17642,Portugal,37214,10020.0,Estoril Praia,EST,68
+17642,Portugal Liga ZON Sagres,158085,17642,Portugal,37696,112513.0,FC Arouca,ARO,28
+17642,Portugal Liga ZON Sagres,6547,17642,Portugal,38173,100741.0,FC Penafiel,PEN,3
+17642,Portugal Liga ZON Sagres,8613,17642,Portugal,38176,1898.0,Boavista FC,BOA,18
+17642,Portugal Liga ZON Sagres,9764,17642,Portugal,36735,1888.0,Gil Vicente FC,GV,32
+17642,Portugal Liga ZON Sagres,10214,17642,Portugal,35296,1891.0,CD Nacional,NAC,118
+17642,Portugal Liga ZON Sagres,9765,17642,Portugal,36248,,Portimonense,POR,4
+17642,Portugal Liga ZON Sagres,10212,17642,Portugal,35298,1893.0,CS Marítimo,MAR,125
+17642,Portugal Liga ZON Sagres,10238,17642,Portugal,35288,665.0,Vitória Setúbal,SET,68
+17642,Portugal Liga ZON Sagres,9773,17642,Portugal,35283,236.0,FC Porto,POR,237
+17642,Portugal Liga ZON Sagres,9768,17642,Portugal,35285,237.0,Sporting CP,SCP,216
+17642,Portugal Liga ZON Sagres,6403,17642,Portugal,35289,1892.0,FC Paços de Ferreira,FER,106
+17642,Portugal Liga ZON Sagres,10213,17642,Portugal,35291,,Amadora,AMA,11
+17642,Portugal Liga ZON Sagres,7841,17642,Portugal,35293,744.0,Rio Ave FC,RA,103
+17642,Portugal Liga ZON Sagres,7844,17642,Portugal,35287,1887.0,Vitória Guimarães,GUI,121
+17642,Portugal Liga ZON Sagres,9809,17642,Portugal,35297,100737.0,Naval 1° de Maio,NAV,29
+17642,Portugal Liga ZON Sagres,9772,17642,Portugal,35294,234.0,SL Benfica,BEN,234
+17642,Portugal Liga ZON Sagres,9807,17642,Portugal,35284,1889.0,CF Os Belenenses,BEL,54
+17642,Portugal Liga ZON Sagres,10264,17642,Portugal,35290,1896.0,SC Braga,BRA,201
+17642,Portugal Liga ZON Sagres,7992,17642,Portugal,35286,,Trofense,TRO,8
+17642,Portugal Liga ZON Sagres,6421,17642,Portugal,35295,10018.0,Leixões SC,LEI,23
+19694,Scotland Premier League,9800,19694,Scotland,39396,100805.0,St. Mirren,MIR,71
+19694,Scotland Premier League,8426,19694,Scotland,41673,1754.0,Partick Thistle F.C.,PAR,46
+19694,Scotland Premier League,8284,19694,Scotland,41216,180.0,Dundee FC,DUF,30
+19694,Scotland Premier League,8649,19694,Scotland,41217,631.0,Ross County FC,ROS,56
+19694,Scotland Premier League,8457,19694,Scotland,40757,182.0,Dunfermline Athletic,DUN,3
+19694,Scotland Premier League,8467,19694,Scotland,39853,100804.0,St. Johnstone FC,JOH,123
+19694,Scotland Premier League,10251,19694,Scotland,39392,81.0,Hibernian,HIB,92
+19694,Scotland Premier League,9927,19694,Scotland,39390,83.0,Motherwell,MOT,145
+19694,Scotland Premier League,8548,19694,Scotland,39388,86.0,Rangers,RAN,143
+19694,Scotland Premier League,8066,19694,Scotland,39394,620.0,Inverness Caledonian Thistle,INV,128
+19694,Scotland Premier League,9938,19694,Scotland,39398,181.0,Dundee United,DUU,177
+19694,Scotland Premier League,8429,19694,Scotland,39397,184.0,Hamilton Academical FC,HAM,56
+19694,Scotland Premier League,9925,19694,Scotland,39395,78.0,Celtic,CEL,297
+19694,Scotland Premier League,8485,19694,Scotland,39393,77.0,Aberdeen,ABE,195
+19694,Scotland Premier League,8597,19694,Scotland,39391,82.0,Kilmarnock,KIL,93
+19694,Scotland Premier League,9860,19694,Scotland,39389,80.0,Heart of Midlothian,HEA,146
+19694,Scotland Premier League,8596,19694,Scotland,39387,79.0,Falkirk,FAL,23
+21518,Spain LIGA BBVA,10281,21518,Spain,43050,462.0,Real Valladolid,VAL,53
+21518,Spain LIGA BBVA,8479,21518,Spain,43048,571.0,RC Recreativo,HUE,13
+21518,Spain LIGA BBVA,8394,21518,Spain,43803,244.0,Real Zaragoza,ZAR,56
+21518,Spain LIGA BBVA,9867,21518,Spain,43804,260.0,CD Tenerife,TEN,13
+21518,Spain LIGA BBVA,9868,21518,Spain,43800,1742.0,Xerez Club Deportivo,XER,5
+21518,Spain LIGA BBVA,10278,21518,Spain,44557,100879.0,Hércules Club de Fútbol,HER,13
+21518,Spain LIGA BBVA,7878,21518,Spain,45330,110832.0,Granada CF,GRA,58
+21518,Spain LIGA BBVA,8560,21518,Spain,44569,457.0,Real Sociedad,SOC,107
+21518,Spain LIGA BBVA,8370,21518,Spain,45333,480.0,Rayo Vallecano,RAY,62
+21518,Spain LIGA BBVA,9864,21518,Spain,43054,573.0,Málaga CF,MAL,135
+21518,Spain LIGA BBVA,9910,21518,Spain,46087,450.0,RC Celta de Vigo,CEL,76
+21518,Spain LIGA BBVA,10268,21518,Spain,46848,468.0,Elche CF,ELC,21
+21518,Spain LIGA BBVA,8372,21518,Spain,47605,467.0,SD Eibar,EIB,20
+21518,Spain LIGA BBVA,8581,21518,Spain,44565,1853.0,Levante UD,LEV,65
+21518,Spain LIGA BBVA,9865,21518,Spain,43052,1861.0,UD Almería,ALM,60
+21518,Spain LIGA BBVA,10267,21518,Spain,43035,461.0,Valencia CF,VAL,220
+21518,Spain LIGA BBVA,8305,21518,Spain,43046,1860.0,Getafe CF,GET,110
+21518,Spain LIGA BBVA,7869,21518,Spain,47612,1867.0,Córdoba CF,COR,7
+21518,Spain LIGA BBVA,8371,21518,Spain,43037,479.0,CA Osasuna,OSA,86
+21518,Spain LIGA BBVA,9783,21518,Spain,43039,242.0,RC Deportivo de La Coruña,COR,84
+21518,Spain LIGA BBVA,8388,21518,Spain,43041,477.0,CD Numancia,NUM,11
+21518,Spain LIGA BBVA,8696,21518,Spain,43043,456.0,Racing Santander,SAN,49
+21518,Spain LIGA BBVA,9869,21518,Spain,43045,459.0,Real Sporting de Gijón,SPG,64
+21518,Spain LIGA BBVA,8661,21518,Spain,43036,453.0,RCD Mallorca,MAL,75
+21518,Spain LIGA BBVA,8603,21518,Spain,43047,449.0,Real Betis Balompié,BET,68
+21518,Spain LIGA BBVA,8315,21518,Spain,43051,448.0,Athletic Club de Bilbao,BIL,163
+21518,Spain LIGA BBVA,9906,21518,Spain,43053,240.0,Atlético Madrid,AMA,242
+21518,Spain LIGA BBVA,8302,21518,Spain,43044,481.0,Sevilla FC,SEV,217
+21518,Spain LIGA BBVA,10205,21518,Spain,43038,483.0,Villarreal CF,VIL,172
+21518,Spain LIGA BBVA,8633,21518,Spain,43040,243.0,Real Madrid CF,REA,288
+21518,Spain LIGA BBVA,8634,21518,Spain,43042,241.0,FC Barcelona,BAR,297
+21518,Spain LIGA BBVA,8558,21518,Spain,43049,452.0,RCD Espanyol,ESP,116
+21518,Spain LIGA BBVA,8306,21518,Spain,48358,472.0,UD Las Palmas,LAS,13
