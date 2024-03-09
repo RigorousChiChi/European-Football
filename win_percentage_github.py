@@ -17,7 +17,7 @@ own_palette = ["#f67088", "#f77367", "#f37932", "#db8831", "#ca9131", "#bb9731",
 
 st.set_page_config(layout="wide")
 
-mypath = ""
+mypath = "/Users/mawrencela/Desktop/datascience/EuropeanSoccer/"
 
 team_info = pd.read_csv(mypath + 'github_team_info.csv')
 team_all=pd.read_csv(mypath +'github_team_all.csv')
@@ -66,7 +66,7 @@ with st.sidebar:
 
 if selected=='Abstract':
     st.title("Abstract")
-    st.markdown('With a long history that traces back to the 19th century, European Football has an influence that extends beyond the simple sporting spectacle. It influences social culture, politics, and even the economy. Madrid, Spain, gained an economic benefit of around 60 million to 70 million euros by hosting the Champions League final alone in 2019. Even one simple match can generate an unbelievable economic impact, showcasing how influential football is as a sport and why it’s worth analyzing.')
+    st.markdown('With a long history that traces back to the 19th century, European Football has an influence that extends beyond the simple sporting spectacle. It influences social culture, politics, and even the economy. Madrid, Spain, gained an economic benefit of around 60 million to 70 million euros by hosting the Champions League final alone in 2019<sup>1</sup>. Even one simple match can generate an unbelievable economic impact, showcasing how influential football is as a sport and why it’s worth analyzing.',unsafe_allow_html=True)
     st.markdown('''This case study aims to look in-depth at all of the mainstream football leagues around Europe and at what level each team is rated in the league they play in. European Football is known for its high level and high commercialization; that's why it's the best sample to be analyzed and is most likely to lead to a justified conclusion.''')
     st.markdown('The end goal is to elucidate the scientific factors that delineate good and bad football teams, offering valuable insights to fans, coaches, and players alike. Through a detailed examination of technical factors, our conclusion will synthesize key takeaways, offering actionable advice and strategic considerations that can influence the development of more effective and cohesive teams."')
 
