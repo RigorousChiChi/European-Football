@@ -17,7 +17,7 @@ own_palette = ["#f67088", "#f77367", "#f37932", "#db8831", "#ca9131", "#bb9731",
 
 st.set_page_config(layout="wide")
 
-mypath = "/Users/mawrencela/Desktop/datascience/EuropeanSoccer/"
+mypath = ""
 
 team_info = pd.read_csv(mypath + 'github_team_info.csv')
 team_all=pd.read_csv(mypath +'github_team_all.csv')
